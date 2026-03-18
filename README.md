@@ -2,8 +2,8 @@
 
 ```js
 const developer = {
-  name: "Yogya",
-  alias: "@lilcloudcoder",
+  name: "Yogya Srivastava",
+  alias: "@YogyaSrivastava",
   location: "UP, India",
 
   focus: ["development"],
