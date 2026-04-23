@@ -1,10 +1,11 @@
 # FAHHHH-lab ⚡
 
 **Yogya Srivastava**
-aka **FAHHHH-lab**
+from **FAHHHH-lab** ,
 UP, India
 
 build > talk
+
 solo • chaos
 
 inspired by: NoOne,It'sMeAndMyMac
