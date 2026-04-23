@@ -1,79 +1,67 @@
 # FAHHHH-lab ⚡
 
-**Yogya Srivastava**
-from **FAHHHH-lab** ,
-UP, India
+<img width="1983" height="793" alt="ChatGPT Image Apr 23, 2026, 06_35_59 PM" src="https://github.com/user-attachments/assets/56eeda04-6fa5-4f1e-ac8f-f7423ed7d868" />
 
-build > talk
+# FAHHHH-lab ⚡
+### FAHHHH-lab is a systems lab focused on building fast, minimal, and high-impact developer tools.
 
-solo • chaos
-
-inspired by: NoOne,It'sMeAndMyMac
+> build > talk  
+> eliminate > optimize > ship  
 
 ---
 
-## ⚙️ STACK
+## 🧩 CAPABILITIES
 
-**Languages**
-C • Bash
-Python • Lua • Solidity
-JavaScript • TypeScript • HTML • CSS • Node.js
-Rust • Go
-
-**Frameworks**
-React • Next.js
-FastAPI • Flask
-Flutter • Swift
-
-**Tools**
-Git • GitHub • Neovim • Vim
-Cloudflare • GCP
+- CLI tooling
+- Developer automation
+- Backend systems
+- API design
+- Experimental systems
 
 ---
 
-## 🧠 SETUP
+## ⚙️ SYSTEMS
 
-terminal: Alacritty 
-editor: Neovim (NvChad)
-prompt: P10k
-vibe: minimal • fast • no distractions
+- Low-level + scripting → C • Bash • Rust • Go  
+- Backend + APIs → Node.js • Python • FastAPI • Flask  
+- Interface layers → React • Next.js • Flutter  
 
 ---
 
-## 🚀 WORK
+## 🧪 ACTIVE PROJECTS
 
-**Sangharsh Premier League**
+- FAHH-kernel  
+- FAHHST-assistant  
+- FAHH-node  
+- FAHH-GoAPI  
+- FAHH-DevKit  
+
+---
+
+## 🚀 DEPLOYED SYSTEMS
+
+Sangharsh Premier League  
 https://sangharshpremierleague.com/
-React
 
-**Shidh Shakti Mission**
+Shidh Shakti Mission  
 https://shidhshaktimission.com/
-Next.js
 
 ---
 
-## FAHHHH-lab's Projects:
+## 🏷️ CLASSIFICATION
 
-- **FAHH-kernel**
-- **FAHHST-assistant**
-- **FAHH-node**
-- **FAHH-GoAPI**
-- **FAHH-DevKit** MEGA PROJECT BY FAHHHH-lab
+FAHHHH-lab → stable, structured systems  
+FAHHHH-exp → experimental builds  
 
 ---
 
-## 🏷️ FAHHHH Tags
+## 📡 ACCESS
 
-* **FAHHHH-lab** → full projects (built, structured, usable)
-* **FAHHHH-exp** → experiments (ideas, tests, prototypes)
-
----
-
-## 📡 CONTACT
-
-[yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
-https://FAHHHH-lab.github.io/
+https://FAHHHH-lab.github.io/  
+yogya.coder@gmail.com  
 
 ---
 
-**FAHHHH = build • break • learn • repeat**
+## ⚡ DIRECTIVE
+
+FAHHHH = build • break • learn • repeat
