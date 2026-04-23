@@ -32,9 +32,9 @@ Cloudflare • GCP
 
 ## 🧠 SETUP
 
-terminal: Alacritty (glass + custom theme)
+terminal: Alacritty 
 editor: Neovim (NvChad)
-prompt: Starship
+prompt: P10k
 vibe: minimal • fast • no distractions
 
 ---
