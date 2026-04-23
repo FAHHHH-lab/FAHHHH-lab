@@ -51,6 +51,14 @@ Next.js
 
 ---
 
+## FAHHHH-lab's Projects:
+
+- FAHH-kernel
+- FAHHST-assistant
+- FAHH-node
+
+---
+
 ## 📡 CONTACT
 
 [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
