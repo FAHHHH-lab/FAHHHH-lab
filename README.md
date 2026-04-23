@@ -2,7 +2,6 @@
 
 <img width="1983" height="793" alt="ChatGPT Image Apr 23, 2026, 06_35_59 PM" src="https://github.com/user-attachments/assets/56eeda04-6fa5-4f1e-ac8f-f7423ed7d868" />
 
-# FAHHHH-lab ⚡
 ### FAHHHH-lab is a systems lab focused on building fast, minimal, and high-impact developer tools.
 
 > build > talk  
