@@ -59,6 +59,13 @@ Next.js
 
 ---
 
+## 🏷️ FAHHHH Tags
+
+* **FAHHHH-lab** → full projects (built, structured, usable)
+* **FAHHHH-exp** → experiments (ideas, tests, prototypes)
+
+---
+
 ## 📡 CONTACT
 
 [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
