@@ -65,3 +65,7 @@ yogya.coder@gmail.com
 ## ⚡ DIRECTIVE
 
 FAHHHH = build • break • learn • repeat
+
+---
+
+**Yogya Srivastava** - Maintainer , solo dev - from FAHHHH-lab
