@@ -53,9 +53,10 @@ Next.js
 
 ## FAHHHH-lab's Projects:
 
-- FAHH-kernel
-- FAHHST-assistant
-- FAHH-node
+- **FAHH-kernel**
+- **FAHHST-assistant**
+- **FAHH-node**
+- **FAHH-GoAPI**
 
 ---
 
