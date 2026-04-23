@@ -58,6 +58,7 @@ Next.js
 - **FAHHST-assistant**
 - **FAHH-node**
 - **FAHH-GoAPI**
+- **FAHH-DevKit** MEGA PROJECT BY FAHHHH-lab
 
 ---
 
