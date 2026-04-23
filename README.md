@@ -1,57 +1,61 @@
-# Yogya
+# FAHHHH-lab ⚡
 
-```js
-const developer = {
-  name: "Yogya Srivastava",
-  alias: "@YogyaSrivastava",
-  location: "UP, India",
+**Yogya Srivastava**
+aka **FAHHHH-lab**
+UP, India
 
-  focus: ["development"],
-  inspired_by: ["Dennis Ritchie", "Linus Torvalds"]
-};
-```
+build > talk
+solo • chaos
 
-## Stack
+inspired by: NoOne,It'sMeAndMyMac
 
-### Languages
+---
 
-C · Bash <br>
-Python · Lua · Solidity <br>
-JavaScript · TypeScript · HTML · CSS · Node.js <br>
-Rust · Go <br>
+## ⚙️ STACK
 
-### Frameworks
+**Languages**
+C • Bash
+Python • Lua • Solidity
+JavaScript • TypeScript • HTML • CSS • Node.js
+Rust • Go
 
-React · Next.js <br>
-FastAPI · Flask <br>
-Flutter · Swift <br>
+**Frameworks**
+React • Next.js
+FastAPI • Flask
+Flutter • Swift
 
-### Tools
+**Tools**
+Git • GitHub • Neovim • Vim
+Cloudflare • GCP
 
-Git · GitHub · Neovim · Vim  <br>
-Cloudflare · GCP <br>
+---
 
-## Setup
+## 🧠 SETUP
 
-```js
-const setup = {
-  terminal: "Alacritty",
-  editor: "Neovim (NvChad)",
-  prompt: "Starship"
-};
-```
+terminal: Alacritty (glass + custom theme)
+editor: Neovim (NvChad)
+prompt: Starship
+vibe: minimal • fast • no distractions
 
-## Work
+---
 
-Sangharsh Premier League
+## 🚀 WORK
+
+**Sangharsh Premier League**
 https://sangharshpremierleague.com/
-Stack: React
+React
 
-Shidh Shakti Mission
+**Shidh Shakti Mission**
 https://shidhshaktimission.com/
-Stack: Next.js
+Next.js
 
-## Contact
+---
+
+## 📡 CONTACT
 
 [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
-https://lilcloudcoder.github.io/
+https://FAHHHH-lab.github.io/
+
+---
+
+**FAHHHH = build • break • learn • repeat**
