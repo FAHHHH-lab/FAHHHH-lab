@@ -111,7 +111,7 @@ repeat
 
 ## 👁️ MAINTAINER
 
-Yogya Srivastava  , 12
+Yogya Srivastava  , 12 ,
 solo operator  
 
 no team ,just systems
